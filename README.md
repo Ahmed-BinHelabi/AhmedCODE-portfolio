@@ -23,7 +23,7 @@ I am currently working on a mobile app for a card shop and aiming to gain real-w
 ##  Demo
 
 Watch the demo here:  
- [Click to view the demo](https://drive.google.com/file/d/1najHOy0iPwsAEWkDbPiz_tv6WVdbtdwF/view?usp=sharing)##  Demo
+ [Click to view the demo](https://drive.google.com/file/d/1najHOy0iPwsAEWkDbPiz_tv6WVdbtdwF/view?usp=sharing)
 
 ## Website Features
 
