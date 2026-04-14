@@ -14,19 +14,16 @@ I have strong experience in:
 - Web and mobile development
 - UI/UX design
 - Teaching Assistant experience
-- Game development (competition winner 🏆)
+- Game development
 
 I am currently working on a mobile app for a card shop and aiming to gain real-world experience through internships.
 
 ---
 
-## 🎬 Demo
+##  Demo
 
 Watch the demo here:  
-👉 [Click to view the demo](https://drive.google.com/file/d/1najHOy0iPwsAEWkDbPiz_tv6WVdbtdwF/view?usp=sharing)## 🎬 Demo
-
-Watch the demo here:  
-👉 [Click to view the demo](https://your-google-drive-link)
+ [Click to view the demo](https://drive.google.com/file/d/1najHOy0iPwsAEWkDbPiz_tv6WVdbtdwF/view?usp=sharing)##  Demo
 
 ## Website Features
 
